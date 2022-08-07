@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\bin\Release\RemoteServerApplication2.exe.config
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\bin\Release\RemoteServerApplication2.exe
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\bin\Release\RemoteServerApplication2.pdb
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\bin\Release\PTSLibrary.dll
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\bin\Release\PTSLibrary.pdb
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\obj\Release\RemoteServerApplication2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\obj\Release\RemoteServerApplication2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\obj\Release\RemoteServerApplication2.csproj.CopyComplete
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\obj\Release\RemoteServerApplication2.exe
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\obj\Release\RemoteServerApplication2.pdb

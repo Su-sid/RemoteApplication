@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\obj\Debug\RemoteServerApplication2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\bin\Debug\RemoteServerApplication2.exe.config
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\bin\Debug\RemoteServerApplication2.exe
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\bin\Debug\RemoteServerApplication2.pdb
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\bin\Debug\PTSLibrary2.dll
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\bin\Debug\PTSLibrary2.pdb
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\obj\Debug\RemoteServerApplication2.csproj.CopyComplete
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\obj\Debug\RemoteServerApplication2.exe
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\obj\Debug\RemoteServerApplication2.pdb
+C:\Users\USER\source\repos\RemoteServerApplication2\RemoteServerApplication2\obj\Debug\RemoteServerApplication2.csproj.AssemblyReference.cache
